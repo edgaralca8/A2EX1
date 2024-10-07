@@ -1,0 +1,47 @@
+body {
+    font-family: serif;
+    font-size: 1.2em;
+    background-color: #fddaef;
+}
+
+p {
+    line-height: 125%;
+}
+
+h1 {
+    color: #121980;
+    font-family: Arial;
+}
+
+h2, h3 {
+    color: #cc22ff;
+    font-family: Arial;
+}
+
+.python-code {
+    border: 1px solid #212121;
+    padding: 10px;
+    display: inline-block;
+    background-color: #f4f4f4;
+}
+
+
+#especial::first-letter {
+    font-size: 300%;
+    font-weight: bold;
+    color: #285fd4;
+}
+
+
+.classe1 {
+    color: #black;
+    text-align: justify;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.classe2 {
+    color: #07360f;
+    font-style: italic;
+    padding-left: 10px;
+}
